@@ -1,0 +1,317 @@
+.desktop-17 .nakreezy {
+  margin-right: 2.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-17 .shop {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  color: #CF1010;
+}
+.desktop-17 .container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+nav ul { list-style-type: none;
+ }
+
+nav li { float: left;}
+
+nav ul::after{
+	content : "";
+	display: table;
+    clear: both; 
+}
+
+nav li{ 
+float: left;
+width:20%;
+text-align: center;
+overflow-wrap: break-word;
+font-weight: 600;
+font-size: 20px;
+
+}
+
+nav {
+	
+	margin: 0 auto;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	padding:0px ;
+}
+
+nav {
+	width:800px;
+	margin: 0px auto;
+	background-color:white;
+   
+	
+}
+
+
+
+
+.desktop-17 .iconamoonprofile-fill {
+  margin-bottom: 0.6px;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+  margin-right:200px;
+}
+.desktop-17 .container-1 {
+  margin: 5px 0 8.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 88.7px;
+  height: fit-content;
+  box-sizing: border-box;
+
+}
+
+.desktop-17 .mdicart-outline {
+  margin: 7.3px 0 3.3px 0;
+  display: flex;
+  width: 33.3px;
+  height: 33.3px;
+  box-sizing: border-box;
+}
+.desktop-17 .container {
+  background: #FDFEFF;
+  position: relative;
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 96px 12px 88px;
+ width:100%;
+  box-sizing: border-box;
+  height:100%;
+}
+.desktop-17 .rectangle-121 {
+  filter: blur(2px);
+  transform: rotate(-2.308deg);
+  position: relative;
+  margin-top: 6px;
+  width: 184.6px;
+  height: 224.3px;
+
+}
+.desktop-17 .trendy-collection-2024 {
+  margin-bottom: 25px;
+  display: inline-block;
+  margin-left:300px;
+
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.desktop-17 .highest-quality {
+  margin-bottom: 30px;
+ 
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 48px;
+  color: #000000;
+ margin-left: 300px;
+}
+.desktop-17 .collection {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+  margin-left:300px;
+}
+.desktop-17 .container-2 {
+  margin-bottom: 30.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  width:100%;
+ 
+}
+.desktop-17 .container-8 {
+  margin: 0 84px 174.7px 84px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+
+}
+.desktop-17 .rectangle-9 {
+  border-radius: 25px;
+  background: #5E4F4F;
+  margin: 0 142px 1px 0;
+  width: 700px;
+  height: 208px;
+}
+.desktop-17 .fashion {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 24px;
+  color: #FFFFFF;
+  margin-left:40px;
+}
+.desktop-17 .container-5 {
+  border-radius: 25px;
+  background:green;
+  position: relative;
+ margin-right:-200px;
+ margin: 59px -200px 0 0;
+  padding: 49px 92.9px 72px 0;
+  width: 272px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-17 .rectangle-11 {
+  border-radius: 25px;
+  background: #D46A1D;
+  margin-top: 59px;
+  width: 300px;
+  height: 150px;
+  margin-left:500px;
+}
+.desktop-17 .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+
+}
+.desktop-17 .kids-wear {
+  position: absolute;
+  right: 85px;
+  bottom: 66px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.desktop-17 .women-gallery {
+  position: absolute;
+  left: 27px;
+  top: 53px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.desktop-17 .go-now {
+  position: absolute;
+  left: 27px;
+  bottom: 52px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 24px;
+  color: #37C9A6;
+}
+.desktop-17 .go-now a:hover {
+	color: red;
+	
+	
+}
+.desktop-17 .go-now a:link {
+	text-decoration: none;
+	
+}
+.desktop-17 .vector-2 {
+  background: #39C1A1;
+  position: absolute;
+  left: 30px;
+  bottom: 35px;
+  width: 101px;
+  height: 3px;
+}
+.desktop-17 .container-3 {
+  position: relative;
+  margin: 0 111px 0 84px;
+  display: flex;
+  width: 70%;
+  box-sizing: border-box;
+}
+.desktop-17 .container-7 {
+  position: relative;
+  
+ 
+  width:100%;
+  height:100%;
+ 
+}
+.desktop-17 .rectangle-122 {
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 50px 50px 0;
+  background: rgba(182, 133, 106, 0.9);
+  transform: rotate(-2.337deg);
+  position: absolute;
+  left: 90px;
+  top: 266px;
+  width: 440px;
+  height: 234.5px;
+}
+.desktop-17 .img-20240102101707-removebg-preview-2 {
+  background: url('../assets/images/img_20240102101707_removebg_preview_2.png') 50% / cover no-repeat;
+  transform: rotate(-2.286deg);
+  position: absolute;
+  left: 251px;
+  top: 131px;
+  width: 278.7px;
+  height: 388.3px;
+  
+}
+.desktop-17 .img-20240102101651-removebg-preview-1 {
+  background: url('../assets/images/img_20240102101651_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 1160px;
+  top: 670px;
+  width: 207px;
+  height: 235px;
+  margin-left:200px;
+}
+.desktop-17 .img-20240102101931-removebg-preview-1 {
+  background: url('../assets/images/img_20240102101931_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 591px;
+  width: 172px;
+  top:672px;
+  height: 232px;
+  left:700px;
+  margin-left:150px;
+}
+.desktop-17 .img-20240102101720-removebg-preview-1 {
+  background: url('../assets/images/img_20240102101720_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 185px;
+  top: 607px;
+  width: 342px;
+  height: 298px;
+  margin-left:30px;
+}
+.desktop-17 {
+  background: #C9DDE3;
+ 
+  width:100%;
+  height:100%;
+}
