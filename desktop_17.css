@@ -1,0 +1,55 @@
+
+
+
+
+.font-family{
+  font-family: 'Inter';
+}
+
+.color-black{
+  color: #000000;
+}
+
+.bg-light-blue{
+  background-color: #c9dde3;
+}
+
+.mtop-5{
+  margin-top: 5rem;
+}
+
+.color-brown{
+  background-color: #b88e76;
+}
+
+.h-250{
+  height: 250px;
+}
+
+/* .m-top-15{
+  margin-top: 8rem;
+} */
+
+.m-top-8{
+  margin-top: 8rem;
+}
+
+.rotate{
+  transform: rotate(-2.337deg);
+}
+
+.fs-59{
+  font-size: 59px;
+}
+
+.h-208{
+  height: 208px;
+}
+
+.h-150{
+  height: 150px;
+}
+
+.color-orange{
+  background-color: #d26a1d;
+}
