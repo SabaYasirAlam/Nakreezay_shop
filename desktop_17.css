@@ -53,3 +53,7 @@
 .color-orange{
   background-color: #d26a1d;
 }
+
+.menu:hover{
+  color: #dc3545;
+}
