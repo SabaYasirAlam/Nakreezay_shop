@@ -1,0 +1,35 @@
+.font-family{
+    font-family: 'Inter';
+  }
+  
+  .color-black{
+    color: #000000;
+  }
+
+  .menu:hover{
+    color: #dc3545;
+  }
+  
+  .bg-light-blue{
+    background-color: #c9dde3;
+  }
+
+  .bg-blue{
+     background-color: #addeed;
+  }
+
+  .mtop-5{
+    margin-top: 5rem;
+  }
+
+  .outer-box-1{
+    width: 90%;
+    /* height: 540px; */
+    background-color: #addeed;
+  }
+
+  .outer-box-2{
+    /* height: 540px; */
+  }
+
+  
