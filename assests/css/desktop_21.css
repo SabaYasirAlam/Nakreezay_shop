@@ -1,0 +1,15 @@
+.font-family{
+    font-family: 'Inter';
+  }
+  
+  .color-black{
+    color: #000000;
+  }
+
+  .menu:hover{
+    color: #dc3545;
+  }
+  
+  .bg-light-blue{
+    background-color: #c9dde3;
+  }
