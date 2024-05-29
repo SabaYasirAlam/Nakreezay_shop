@@ -1,4 +1,8 @@
-.font-family{
+.font-family-inknut{
+    font-family: 'Inknut Antiqua';
+  }
+
+  .font-family-inter{
     font-family: 'Inter';
   }
   
@@ -13,3 +17,16 @@
   .bg-light-blue{
     background-color: #c9dde3;
   }
+
+  .mtop-5{
+    margin-top: 5rem;
+  }
+
+  .dress{
+    left: 32.5%;
+    bottom: 2%;
+}
+  
+.hair-styles{
+    background-color: #addeed;
+}
