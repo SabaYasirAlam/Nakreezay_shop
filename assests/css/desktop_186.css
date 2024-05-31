@@ -1,0 +1,23 @@
+.font-family-inknut{
+    font-family: 'Inknut Antiqua';
+  }
+
+  .font-family-inter{
+    font-family: 'Inter';
+  }
+  
+  .color-black{
+    color: #000000;
+  }
+
+  .menu:hover{
+    color: #dc3545;
+  }
+  
+  .bg-light-blue{
+    background-color: #c9dde3;
+  }
+
+  .mtop-5{
+    margin-top: 5rem;
+  }
