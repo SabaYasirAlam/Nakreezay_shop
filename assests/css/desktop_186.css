@@ -1,23 +1,45 @@
-.font-family-inknut{
-    font-family: 'Inknut Antiqua';
-  }
+.font-family-inknut {
+  font-family: 'Inknut Antiqua';
+}
 
-  .font-family-inter{
-    font-family: 'Inter';
-  }
-  
-  .color-black{
-    color: #000000;
-  }
+.font-family-inter {
+  font-family: 'Inter';
+}
 
-  .menu:hover{
-    color: #dc3545;
-  }
-  
-  .bg-light-blue{
-    background-color: #c9dde3;
-  }
+.font-family-inria {
+  font-family: 'Inria Serif';
+}
 
-  .mtop-5{
-    margin-top: 5rem;
-  }
+.color-black {
+  color: #000000;
+}
+
+.custom-bg-color {
+  background-color: #6cbdd7 !important;
+}
+
+.custom-padding{
+  padding-top: 9rem;
+}
+
+.custom-margin p{
+  margin: 0.85rem;
+}
+
+.menu:hover {
+  color: #dc3545;
+}
+
+.bg-light-blue {
+  background-color: #c9dde3;
+}
+
+.mtop-5 {
+  margin-top: 5rem;
+}
+
+/* .styling {
+  font-size: 1.25rem ;
+  margin-top: .25rem ;
+  /* margin-bottom: 0 ; */
+} */
