@@ -6,6 +6,10 @@
     color: #000000;
   }
 
+  .custom-padding{
+    padding-top: 9rem;
+  }
+
   .menu:hover{
     color: #dc3545;
   }
@@ -16,10 +20,6 @@
 
   .bg-blue{
      background-color: #addeed;
-  }
-
-  .mtop-5{
-    margin-top: 5rem;
   }
 
   .outer-box-1{
